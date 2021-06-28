@@ -14,4 +14,8 @@ public class App {
     public static int div(int a, int b) {
         return a - b;
     }
+
+    public static void method() {
+        System.out.println("This is method");
+    }
 }
